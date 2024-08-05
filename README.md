@@ -1,5 +1,3 @@
-# React + Vite
-
 # steps to run code:
 
 ## 1.first clone the server which is in shipmnts_task_api repository is there
