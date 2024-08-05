@@ -6,9 +6,9 @@
 ## 4. then run npm install to install the dependency
 ## 5. then for running the code use npm run dev
 
+## adding task
+![image](https://github.com/user-attachments/assets/e3328f36-8dce-4dc3-a690-c718f84074d4)
 
-
-![image](https://github.com/user-attachments/assets/20f52f45-14e7-4d2c-9ebf-78792225a6e7)
 ![image](https://github.com/user-attachments/assets/302792ea-1366-4da2-a9c7-cfcac2f93166)
 
 
