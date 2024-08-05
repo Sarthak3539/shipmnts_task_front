@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# steps to run code:
 
-Currently, two official plugins are available:
+## 1.first clone the server which is in shipmnts_task_api repository is there
+## 2. then start the server
+## 3. then clone the shipmnts_front
+## 4. then run npm install to install the dependency
+## 5. then for running the code use npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
